@@ -1,5 +1,5 @@
 import PyPDF2
-import sys
+import sys, os
 
 """
 with open("dummy.pdf", "rb") as file:
